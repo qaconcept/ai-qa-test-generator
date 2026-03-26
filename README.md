@@ -4,8 +4,7 @@
 
 Built as a portfolio project to demonstrate practical AI skills in Quality Engineering and Test Automation using **Amazon Bedrock** and **Claude Sonnet 4.5**.
 
-![Demo Screenshot](screenshot.png)  
-*(Replace this line with an actual screenshot of your running app after you take one)*
+![Bedrock API Success Response](./assets/bedrock-success.png)
 
 ## ✨ Features
 
@@ -18,7 +17,7 @@ Built as a portfolio project to demonstrate practical AI skills in Quality Engin
 
 ## 🛠️ Tech Stack
 
-- **Python** 3.11+
+- **Python** 3.13+
 - **Streamlit** – for the web UI
 - **Amazon Bedrock** – with Claude Sonnet 4.5 (inference profile)
 - **boto3** – AWS SDK for Python
@@ -27,7 +26,7 @@ Built as a portfolio project to demonstrate practical AI skills in Quality Engin
 
 ### Prerequisites
 - An AWS account with access to Amazon Bedrock (Claude models enabled)
-- Python 3.11 or higher
+- Python 3.13 or higher
 - AWS credentials configured (`aws configure`)
 
 ### Installation
